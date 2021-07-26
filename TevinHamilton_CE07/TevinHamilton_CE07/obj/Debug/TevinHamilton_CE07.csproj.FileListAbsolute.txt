@@ -1,0 +1,7 @@
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\bin\Debug\TevinHamilton_CE07.exe.config
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\bin\Debug\TevinHamilton_CE07.exe
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\bin\Debug\TevinHamilton_CE07.pdb
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\obj\Debug\TevinHamilton_CE07.csprojAssemblyReference.cache
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\obj\Debug\TevinHamilton_CE07.csproj.CoreCompileInputs.cache
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\obj\Debug\TevinHamilton_CE07.exe
+C:\Users\Tevin Hamilton\source\repos\TevinHamilton_CE07\TevinHamilton_CE07\obj\Debug\TevinHamilton_CE07.pdb
